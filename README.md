@@ -1,7 +1,5 @@
-### Hi there 👋
-
 [![Solved.ac 
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=yundokim0405)](https://solved.ac/yundokim0405)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yundokim0405)](https://solved.ac/yundokim0405)
 
 <!--
 **yundokim/yundokim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
